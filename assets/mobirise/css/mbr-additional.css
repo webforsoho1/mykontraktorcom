@@ -948,7 +948,7 @@ body {
 }
 .cid-qGP6MZDvHf .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
@@ -995,7 +995,7 @@ body {
   transition: font-size 0.25s;
 }
 .cid-qGP6MZDvHf .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #2e2e2e;
 }
 .cid-qGP6MZDvHf a {
   font-style: normal;
@@ -1192,7 +1192,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qGP6MZDvHf .dropdown .dropdown-menu {
-  background: #232323;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1519,7 +1519,7 @@ body {
 }
 .cid-qGP6MZDvHf .dropdown-item.active,
 .cid-qGP6MZDvHf .dropdown-item:active {
-  background-color: #232323;
+  background-color: #2e2e2e;
   color: auto;
 }
 .cid-qGP6MZDvHf .nav-link:hover,
